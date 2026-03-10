@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                echo 'https://github.com/chaitumarar-dotcom/my-first-repo.git'
+                echo 'https://github.com/anuja112004/my-first-repo.git'
             }
         }
     
